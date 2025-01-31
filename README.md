@@ -37,16 +37,16 @@ This dashboard leverages the power of the MERN (MongoDB, Express, React, Node.js
 
 - MongoDB: The database layer storing the essential data for the dashboard.
 - Express: The backend framework providing APIs to fetch and manage data.
-- React: The frontend framework rendering the dynamic and user-friendly interface.
+- React: The frontend framework renders a dynamic and user-friendly interface.
 - Node.js: The runtime environment for server-side scripting.
 - Chart.js: A powerful library for creating visually appealing and interactive charts.
 
 ## Installation
 
-To get started with the BlackCoffer Visualization Dashboard:
+To get started with the Data Visualization Dashboard:
 
-1. Clone this repository: `git clone https://github.com/RiteshKumarShukla/BlackCoffer-Visualization-Dashboard.git`
-2. Navigate to the project directory: `cd BlackCoffer-Visualization-Dashboard`
+1. Clone this repository: `git clone https://github.com/Dewanshu232/Data-Visualisation-Dashboard.git`
+2. Navigate to the project directory: `cd Data-Visualisation-Dashboard`
 3. Install dependencies:
    - Backend: `cd server && npm install`
    - Frontend: `cd client && npm install`
